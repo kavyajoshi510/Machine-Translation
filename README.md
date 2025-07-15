@@ -55,11 +55,4 @@ The dataset used is a parallel corpus where each line contains an English senten
 
 ---
 
-## 🚀 Running the Notebook
-
-1. **Clone this repository:**
-
-```bash
-git clone https://github.com/yourusername/english-hindi-nmt.git
-cd english-hindi-nmt
 
